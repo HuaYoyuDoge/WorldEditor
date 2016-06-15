@@ -24,3 +24,4 @@ WorldEditor Plugin is a port of the WorldEdit, done for [PocketMine-MP](https://
 | __//hsphere__ | `<blocks> <radius>` | Create a hollow sphere. |
 | __//desel__ | | Deselects the current selection. |
 | __/toggleeditwand__ | | Toggles the edit wand selection mode, allowing you to use the edit wand item normally. |
+g
